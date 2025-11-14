@@ -1,0 +1,18 @@
+[project]
+name = "prosit2csharp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "numpy==1.23.5",
+    "onnx==1.14.1",
+    "requests>=2.32.5",
+    "tensorflow==2.12.1",
+    "tf2onnx>=1.8.4",
+]
+
+[tool.uv]
+required-environments = [
+    "python_version >= '3.11' and platform_system == 'Windows'",
+]
