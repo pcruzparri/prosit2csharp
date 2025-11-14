@@ -190,8 +190,8 @@ if __name__ == "__main__":
 
     # Define input specifications
     spec = (tf.TensorSpec((None, 30), tf.float32, name="peptide_sequences"),
-            tf.TensorSpec((None, 6), tf.float32, name="precursor_charge"),
-            tf.TensorSpec((None, 1), tf.float32, name="normalized_collision_energy")
+            tf.TensorSpec((None, 6), tf.float32, name="precursor_charges"),
+            tf.TensorSpec((None, 1), tf.float32, name="normalized_collision_energies")
            )
 
     output_path = "models/prosit/hla_cid/weight_192_0.16253_compatible.onnx"
