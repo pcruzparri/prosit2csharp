@@ -1,2 +1,21 @@
-.venv
-models/
+# Python cache
+**/__pycache__/
+**/*.pyc
+
+# Virtual environments
+**/.venv/
+**/venv/
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# C# build artifacts
+**/bin/
+**/obj/
+**/.vs/
+
+# Model files (except C# project models)
+**/*.hdf5
+**/*.onnx
+!csharp/**/Models/**/*.onnx
+python/models/

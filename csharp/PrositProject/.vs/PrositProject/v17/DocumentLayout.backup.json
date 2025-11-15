@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Peter\\src\\prosit2csharp\\csharp\\PrositProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{690C0FB7-A7AA-4EAF-8234-F5714675DD53}|PrositProject\\PrositProject.csproj|c:\\users\\peter\\src\\prosit2csharp\\csharp\\prositproject\\prositproject\\spectralpredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690C0FB7-A7AA-4EAF-8234-F5714675DD53}|PrositProject\\PrositProject.csproj|solutionrelative:prositproject\\spectralpredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690C0FB7-A7AA-4EAF-8234-F5714675DD53}|PrositProject\\PrositProject.csproj|c:\\users\\peter\\src\\prosit2csharp\\csharp\\prositproject\\prositproject\\tensorizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690C0FB7-A7AA-4EAF-8234-F5714675DD53}|PrositProject\\PrositProject.csproj|solutionrelative:prositproject\\tensorizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690C0FB7-A7AA-4EAF-8234-F5714675DD53}|PrositProject\\PrositProject.csproj|c:\\users\\peter\\src\\prosit2csharp\\csharp\\prositproject\\prositproject\\readers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690C0FB7-A7AA-4EAF-8234-F5714675DD53}|PrositProject\\PrositProject.csproj|solutionrelative:prositproject\\readers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690C0FB7-A7AA-4EAF-8234-F5714675DD53}|PrositProject\\PrositProject.csproj|c:\\users\\peter\\src\\prosit2csharp\\csharp\\prositproject\\prositproject\\tests\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690C0FB7-A7AA-4EAF-8234-F5714675DD53}|PrositProject\\PrositProject.csproj|solutionrelative:prositproject\\tests\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Peter\\src\\prosit2csharp\\csharp\\PrositProject\\PrositProject\\Tests\\Test.cs",
+              "RelativeDocumentMoniker": "PrositProject\\Tests\\Test.cs",
+              "ToolTip": "C:\\Users\\Peter\\src\\prosit2csharp\\csharp\\PrositProject\\PrositProject\\Tests\\Test.cs",
+              "RelativeToolTip": "PrositProject\\Tests\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:50:49.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Readers.cs",
+              "DocumentMoniker": "C:\\Users\\Peter\\src\\prosit2csharp\\csharp\\PrositProject\\PrositProject\\Readers.cs",
+              "RelativeDocumentMoniker": "PrositProject\\Readers.cs",
+              "ToolTip": "C:\\Users\\Peter\\src\\prosit2csharp\\csharp\\PrositProject\\PrositProject\\Readers.cs",
+              "RelativeToolTip": "PrositProject\\Readers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:56:07.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tensorizer.cs",
+              "DocumentMoniker": "C:\\Users\\Peter\\src\\prosit2csharp\\csharp\\PrositProject\\PrositProject\\Tensorizer.cs",
+              "RelativeDocumentMoniker": "PrositProject\\Tensorizer.cs",
+              "ToolTip": "C:\\Users\\Peter\\src\\prosit2csharp\\csharp\\PrositProject\\PrositProject\\Tensorizer.cs",
+              "RelativeToolTip": "PrositProject\\Tensorizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:56:47.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpectralPredictor.cs",
+              "DocumentMoniker": "C:\\Users\\Peter\\src\\prosit2csharp\\csharp\\PrositProject\\PrositProject\\SpectralPredictor.cs",
+              "RelativeDocumentMoniker": "PrositProject\\SpectralPredictor.cs",
+              "ToolTip": "C:\\Users\\Peter\\src\\prosit2csharp\\csharp\\PrositProject\\PrositProject\\SpectralPredictor.cs",
+              "RelativeToolTip": "PrositProject\\SpectralPredictor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:51:10.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
